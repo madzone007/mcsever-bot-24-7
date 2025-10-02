@@ -1,6 +1,6 @@
 const mineflayer = require('mineflayer');
-const MAGMANODE_API_KEY = 'ptlc_IDuqtjbQoir6bP9NJWXoNcOjX77YkRUz6zVYFPfzpqy';
-const SERVER_ID = '87582fcf';
+const MAGMANODE_API_KEY = 'ptlc_zlQazVmMlQ2C9WSJcg34j62fx1U5qkdWpTuI42YRwWf';
+const SERVER_ID = '6c9b545b';
 
 let bot = null;
 let serverRestarting = false;
@@ -47,7 +47,7 @@ function createBot() {
   
   bot = mineflayer.createBot({
     host: 'gold.magmanode.com',
-    port: 30265,
+    port: 30875,
     username: 'KeepAliveBot',
   });
 
