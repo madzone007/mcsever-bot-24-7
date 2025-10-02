@@ -1,6 +1,6 @@
 // test-api.js
-const MAGMANODE_API_KEY = 'ptlc_IDuqtjbQoir6bP9NJWXoNcOjX77YkRUz6zVYFPfzpqy';
-const SERVER_ID = '87582fcf';
+const MAGMANODE_API_KEY = 'ptlc_zlQazVmMlQ2C9WSJcg34j62fx1U5qkdWpTuI42YRwWf';
+const SERVER_ID = '6c9b545b';
 
 async function testNewKey() {
   console.log('🔍 Testing NEW API Key...\n');
